@@ -1,3 +1,3 @@
 ## Hi, humans and robots! 👋
 
-Welcome to the open-sourced code repositories for websites built under the roof of *__awalkaday.art__*.
+Welcome to the open-sourced code repositories for websites built under the roof of [*__awalkaday.art__](https://awalkaday.art)*.
